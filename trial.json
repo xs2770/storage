@@ -2,8 +2,8 @@
   "keys": [
     {
       "key": "abc123",
-      "device": "",
-      "used": false
+      "device": "91758776561",
+      "used": true
     },
     {
       "key": "xyz789",
