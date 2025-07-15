@@ -62,5 +62,9 @@
     {
         "key": "6f85af64-8738-4d3c-bec6-cc711dca3694",
         "mac": "00:e0:1e:64:65:ad"
+    },
+    {
+        "key": "037e658e-dbca-47ef-8def-cd148e7912d9",
+        "mac": null
     }
 ]
