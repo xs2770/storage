@@ -98,5 +98,9 @@
     {
         "key": "13cf9c19-6cd9-4675-b8db-e373f95b0bb9",
         "mac": "5c:5f:67:5e:47:4b"
+    },
+    {
+        "key": "49e827d5-2aa9-480e-98a9-d23ecf241cce",
+        "mac": null
     }
 ]
